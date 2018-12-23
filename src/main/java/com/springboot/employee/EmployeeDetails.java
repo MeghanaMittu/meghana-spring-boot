@@ -14,7 +14,6 @@ public class EmployeeDetails {
 	private List<DirectReportsDetails> directReports;
 	
 	
-
 	public EmployeeDetails() {
 		super();
 	}
